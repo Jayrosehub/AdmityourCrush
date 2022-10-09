@@ -21,7 +21,6 @@ body{
 .images1{
 				position: absolute;
 				top: 0;
-				display: grid;
 				grid-template-columns: 1fr 1fr;
 				gap:2em;
 				margin-left: 1em;
